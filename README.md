@@ -1,5 +1,8 @@
-# :exclamation::exclamation::exclamation: Looking for new Maintainer :exclamation::exclamation::exclamation:
-As you may have noticed, this package has not been updated for some time. I'm sorry, but unfortunately I'm not able to continue to maintain it, so I'm looking for someone who would like to take it over and maintain it. If you are interested, please contact me at wikiki@protonmail.com to discuss how to proceed.
+# :exclamation: Looking for new contributors :exclamation:
+As you may have noticed, this package has not been updated for some time. 
+
+However, as of April 2025 some changes area afoot to recover all the bulma-extensions formerly coded by wikiki, to a useful state.
+If you are interested in bieng part of a group that maintains these compoments, please leave an Issue in the project you're most interested in, to that effect.
 
 # bulma-pricingtable
 Display a pricing table with Bulma
@@ -13,4 +16,4 @@ Display a pricing table with Bulma
 
 Documentation & Demo
 ---
-You can find the Documentation and a demo [here](https://wikiki.github.io/components/pricingtable/)
+Currently being rehomed.
